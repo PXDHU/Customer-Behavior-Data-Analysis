@@ -138,14 +138,10 @@ This project is licensed under the **MIT License** – free to use, modify, and 
 
 ## 👨‍💻 About the Author
 **Padmavasan Balakrishnan**  
-AI/ML Engineer | Data Analytics Practitioner | Automation Enthusiast
-
-I build **practical, production-grade analytics projects** that bridge the gap between data and decisions.
-
 🌐 **Connect with me**:
 - [LinkedIn](https://www.linkedin.com/in/padmavasanbalakrishnan)
 - [GitHub](https://github.com/PXDHU)
-- 📧 Email: [padmavasan.contact@gmail.com](mailto:padmavasan.contact@gmail.com)
+- [padmavasan.contact@gmail.com](mailto:padmavasan.contact@gmail.com)
 
 ---
 
