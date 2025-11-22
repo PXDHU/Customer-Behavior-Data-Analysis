@@ -112,15 +112,6 @@ Open `customer_behavior_sql_queries.sql`
 
 ---
 
-## 🔑 Key Insights Discovered
-- Top 20% customers contribute **68% of total revenue** (Pareto principle confirmed)
-- Age group **25–34** drives maximum purchases and spending
-- **Electronics** & **Clothing** are the highest-revenue categories
-- Customers from **California** and **New York** dominate high-value segments
-- Strong correlation between subscription status and purchase frequency
-
----
-
 ## 🧠 Key Learnings & Skills Demonstrated
 - End-to-end analytics workflow design
 - Real-world data cleaning & validation
