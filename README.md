@@ -134,7 +134,3 @@ This project is licensed under the **MIT License** – free to use, modify, and 
 - [GitHub](https://github.com/PXDHU)
 - [padmavasan.contact@gmail.com](mailto:padmavasan.contact@gmail.com)
 
----
-
-**Enjoyed this project?**  
-Please **Star this repository** to support more high-quality analytics content!
