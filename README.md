@@ -4,8 +4,6 @@ This project demonstrates a complete, industry-standard end-to-end data analytic
 
 ---
 
-# 📊 Customer Behavior Data Analysis - End-to-End Analytics Project
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-Microsoft_SQL_Server-orange)](https://www.microsoft.com/sql-server)
