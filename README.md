@@ -1,6 +1,6 @@
 # 📊 Customer-Behavior-Data-Analysis
 
-This project demonstrates a complete, industry-standard end-to-end data analytics workflow, replicating the real responsibilities of Data Analysts in modern business environments. It covers everything from raw data processing to SQL-based insight generation, dashboard creation, and executive-ready reporting.
+This project analyzes customer shopping behavior using Python, SQL, and Power BI. It cleans and explores the data, loads it into a SQL database, answers business questions through SQL queries, and visualizes key insights in an interactive Power BI dashboard.
 
 ---
 
