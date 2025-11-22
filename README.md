@@ -60,7 +60,6 @@ Customer-Behavior-Data-Analysis/
 ```bash
 git clone https://github.com/PXDHU/Customer-Behavior-Data-Analysis.git
 cd Customer-Behavior-Data-Analysis
-2️⃣ Open the Notebook
 ```
 --- 
 
